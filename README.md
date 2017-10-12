@@ -1,7 +1,7 @@
 # simple_orm
 Пример простейшего ORM
 
-orm.**Table** - основной класс-описание таблыцы данных.
+orm.**Table** - основной класс-описание таблицы данных.
 orm.**Integer**, orm.**Float**, orm.**String**, orm.**Bool** - классы типов полей в таблице
 
 orm.**SQLiteEngine** - класс для доступа к БД SQLite.
